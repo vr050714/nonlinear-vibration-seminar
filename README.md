@@ -39,7 +39,7 @@ Matheau - see Rand: "Lectures on nonlinear vibrations", ch. 6
 
 ## Examples (2nd part)
 
-1. Matheau equation (autoparametric resonance, маятник Капицы (inverse pendulim), который прообраз балансирующмх роботов типа segway, или ракеты, которая балансирует двигателем у основания, а также прямоходящих роботов и животных, которые сохраняют устойчивость балансируя, т.е. покачиваясь относительно точки опоры)
+1. Matheau equation (instability, vibrations at many different frequencies)
 2. subharmonic resonance
 
 ## References
