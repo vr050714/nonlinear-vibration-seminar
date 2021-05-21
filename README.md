@@ -19,9 +19,9 @@
 7. Sub/super-harmonic resonances
 8. Instabilities
 
-# Lecture plan
+## Lecture plan
 
-## 1st part
+### 1st part
 
 1. Why do I choose this topic
 1. Начать с Pi-теоремы размерности, которая превращает физическую задачу в чисто математическую
@@ -37,7 +37,7 @@ Method of averaging (5)
 All examples can be taken from Tondl chapter 9
 Matheau - see Rand: "Lectures on nonlinear vibrations", ch. 6
 
-## Examples (2nd part)
+### Examples (2nd part)
 
 1. Matheau equation (instability, vibrations at many different frequencies)
 2. subharmonic resonance
