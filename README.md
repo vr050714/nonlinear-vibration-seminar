@@ -1,13 +1,5 @@
 # Nonlinear vibrations
 
-## Overview of methods
-
-1. linearization, phase portrait, fixed points, stability, limiting circles
-2. Poincare-Lindstedt (periodic solution, freq.-ampl. relation as a result of removing secular terms)
-3. Multiple time scales (can handle a systems with damping)
-4. Method of averaging (Боголюбова-Крылова, for sub/super-harmonic resonances)
-5. Method of characteristics
-
 ## Nonlinear effects
 
 1. Duffing oscillator
