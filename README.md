@@ -3,13 +3,17 @@
 ## Nonlinear effects
 
 1. Duffing oscillator
-2. Potential well escape (static/dynamic)
-3. Self-oscillation
-4. Bifurcations (various)
-5. Stochastic (sys. w/ 3 and more DOFs)
-6. Autoparametric resonance
-7. Sub/super-harmonic resonances
-8. Instabilities
+1. Potential well escape (static/dynamic)
+1. Self-oscillation (limiting cycles)
+1. Bifurcations (various):
+    * changing phase diagram (Hopf)
+    * jumping between attractors (Lorents)
+    * appearing/disappearing limiting cycle
+    * stochastic
+1. Stochastic (sys. w/ 3 and more DOFs)
+1. Autoparametric resonance
+1. Sub/super-harmonic resonances
+1. Instabilities
 
 ## Lecture plan
 
@@ -17,29 +21,27 @@
 
 1. Why do I choose this topic
 1. Начать с Pi-теоремы размерности, которая превращает физическую задачу в чисто математическую
-2. показать, что в книге сказано про stright forward approach
-3. показать в Wikipedia нет зависимости от амплитуды
-4. Duffing (amplitude-frequency interaction)
-5. Matheau (instability)
-6. Autoparametric resonance (modes interaction)
+1. показать, что в книге сказано про stright forward approach
+1. показать в Wikipedia нет зависимости от амплитуды
+1. Duffing (amplitude-frequency interaction, subharmonic resonance)
+1. Autoparametric resonance (modes interaction)
 
 Poincare-Lindstedt (3,4)
 Method of averaging (5)
 
-All examples can be taken from Tondl chapter 9
-Matheau - see Rand: "Lectures on nonlinear vibrations", ch. 6
+>> All examples can be taken from Tondl chapter 9
+>> Matheau - see Rand: "Lectures on nonlinear vibrations", ch. 6
 
 ### Examples (2nd part)
 
 1. Matheau equation (instability, vibrations at many different frequencies)
-2. subharmonic resonance
+1. subharmonic resonance
 
 ## References
 
 1. Nayfeh - Nonlinear oscillations
-2. Nayfeh - Nonlinear interactions
-3. Nayfeh - Perturbation methods
-4. Richard H. Rand - Lecture notes on nonlinear vibrations
-5. Strogatz - Nonlinear dynamics and chaos
-6. Tondl - Nonlinear vibrations
-7. Tondl - Autoparametric resonance in mechanical systems
+1. Nayfeh - Perturbation methods
+1. Richard H. Rand - Lecture notes on nonlinear vibrations
+1. Strogatz - Nonlinear dynamics and chaos
+1. Tondl - Nonlinear vibrations
+1. Tondl - Autoparametric resonance in mechanical systems
