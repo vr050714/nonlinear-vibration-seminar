@@ -7,13 +7,13 @@
 1. Self-oscillation (limiting cycles)
 1. Bifurcations (various):
     * changing phase diagram (Hopf)
-    * jumping between attractors (Lorents)
-    * appearing/disappearing limiting cycle
+    * jumping between attractors (Lorenz)
+    * appearing/disappearing limiting cycle (VDP)
     * stochastic
-1. Stochastic (sys. w/ 3 and more DOFs)
-1. Autoparametric resonance
-1. Sub/super-harmonic resonances
-1. Instabilities
+1. Stochastic (sys. with 3 and more DOFs like stochastic pendulim, Lorenz attractor)
+1. Autoparametric resonance (modes coupling due to nonlinear terms)
+1. Sub/super-harmonic resonances (duffing)
+1. Instabilities (Matheu equation)
 
 ## Lecture plan
 
