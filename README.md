@@ -26,11 +26,8 @@
 1. Duffing (amplitude-frequency interaction, subharmonic resonance)
 1. Autoparametric resonance (modes interaction)
 
-Poincare-Lindstedt (3,4)
-Method of averaging (5)
-
->> All examples can be taken from Tondl chapter 9
->> Matheau - see Rand: "Lectures on nonlinear vibrations", ch. 6
+> All examples can be taken from Tondl chapter 9 <br>
+> Matheau - see Rand: "Lectures on nonlinear vibrations", ch. 6
 
 ### Examples (2nd part)
 
