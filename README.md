@@ -13,7 +13,7 @@
 1. Stochastic (sys. with 3 and more DOFs like stochastic pendulim, Lorenz attractor)
 1. Autoparametric resonance (modes coupling due to nonlinear terms)
 1. Sub/super-harmonic resonances (duffing)
-1. Instabilities (Matheu equation)
+1. Instabilities (Mathieu equation, autoparametric resonances)
 
 ## Lecture plan
 
@@ -26,12 +26,9 @@
 1. Duffing (amplitude-frequency interaction, subharmonic resonance)
 1. Autoparametric resonance (modes interaction)
 
-> All examples can be taken from Tondl chapter 9 <br>
-> Matheau - see Rand: "Lectures on nonlinear vibrations", ch. 6
-
 ### Examples (2nd part)
 
-1. Matheau equation (instability, vibrations at many different frequencies)
+1. Mathieu equation (instability, vibrations at many different frequencies)
 1. subharmonic resonance
 
 ## References
