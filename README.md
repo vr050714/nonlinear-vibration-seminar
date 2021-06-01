@@ -26,7 +26,17 @@
 1. Duffing (amplitude-frequency interaction, subharmonic resonance)
 1. Autoparametric resonance (modes interaction)
 
-### Examples (2nd part)
+### 2nd part
+
+1. talk about nonlinear effects (self oscillations, limiting cycle, multivibrator)
+2. open original paper and show the generator and equations
+3. demonstrate notebook with derivation of limiting cycle for small amplitudes
+4. explain the difference
+5. show numerical examples
+6. open Nayfeh for demonstrating strong nonlinear case
+7. explain this derivation in my notebook
+8. show intersting thing in the original paper
+### 3rd part
 
 1. Mathieu equation (instability, vibrations at many different frequencies)
 1. subharmonic resonance
