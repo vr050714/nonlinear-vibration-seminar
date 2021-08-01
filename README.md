@@ -1,5 +1,7 @@
 # Nonlinear vibrations
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vr050714/nonlinear-vibration-seminar/HEAD)
+
 ## Nonlinear effects
 
 1. Duffing oscillator
