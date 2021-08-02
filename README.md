@@ -43,6 +43,11 @@
 1. Mathieu equation (instability, vibrations at many different frequencies)
 1. subharmonic resonance
 
+## Interesting article
+
+W.L. Keith, R.H. Rand, **Dynamics of a system exhibiting the global bifurcation of a limit cycle at infinity**, International Journal of Non-Linear Mechanics, Volume 20, Issue 4, 1985, 
+[https://doi.org/10.1016/0020-7462(85)90040-X](https://doi.org/10.1016/0020-7462(85)90040-X)
+
 ## References
 
 1. Nayfeh - Nonlinear oscillations
