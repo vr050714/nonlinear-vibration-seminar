@@ -37,10 +37,6 @@
 6. open Nayfeh for demonstrating strong nonlinear case
 7. explain this derivation in my notebook
 8. show intersting thing in the original paper
-### 3rd part
-
-1. Mathieu equation (instability, vibrations at many different frequencies)
-1. subharmonic resonance
 
 ## Interesting article
 
