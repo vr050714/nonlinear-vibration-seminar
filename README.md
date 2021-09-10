@@ -17,7 +17,7 @@
 1. Sub/super-harmonic resonances (duffing)
 1. Instabilities (Mathieu equation, autoparametric resonances)
 
-## Lecture plan
+## Seminar plan
 
 ### 1st part
 
