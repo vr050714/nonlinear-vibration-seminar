@@ -21,12 +21,11 @@
 
 ### 1st part
 
-1. Why do I choose this topic
 1. Начать с Pi-теоремы размерности, которая превращает физическую задачу в чисто математическую
-1. показать, что в книге сказано про stright forward approach
+1. показать, что в книге сказано про straightforward approach
 1. показать в Wikipedia нет зависимости от амплитуды
 1. Duffing (amplitude-frequency interaction, subharmonic resonance)
-1. Autoparametric resonance (modes interaction)
+1. Autoparametric resonance
 
 ### 2nd part
 
